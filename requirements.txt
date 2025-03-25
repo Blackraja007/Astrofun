@@ -1,3 +1,0 @@
-touch requirements.txt
-
-python-telegram-bot
